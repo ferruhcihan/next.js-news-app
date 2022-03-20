@@ -30,7 +30,7 @@ export const getServerSideProps = async () => {
     name: "Jason Response",
     position: "Frontend Developer",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed nulla at ex tristique vestibulum sed aliquam arcu. Cras nisi metus, interdum eu rutrum eget, faucibus non nisl. Quisque tristique ipsum quis lorem malesuada, a iaculis erat porttitor. Nam ullamcorper vitae tortor id fermentum. Donec erat ante, vehicula vitae quam accumsan, sodales tincidunt nibh.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed nulla at ex tristique vestibulum sed aliquam arcu. Cras nisi metus, interdum eu rutrum eget, faucibus non nisl. Quisque tristique ipsum quis lorem malesuada, a iaculis erat porttitor. Nam ullamcorper vitae tortor id fermentum.",
     imgUrl:
       "https://media.overstockart.com/optimized/cache/data/product_images/VG3345-1000x1000.jpg",
   };
