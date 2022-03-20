@@ -6,7 +6,7 @@ interface ILayout {
 
 const Layout = ({ children }: ILayout) => {
   return (
-    <div className="page-container">
+    <div className="container m-auto">
       <Navbar />
       {children}
     </div>

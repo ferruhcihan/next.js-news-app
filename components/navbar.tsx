@@ -2,8 +2,9 @@ import { useRouter } from "next/router";
 
 const Navbar = () => {
   const router = useRouter();
+
   return (
-    <div className="container m-auto flex justify-center h-16">
+    <div className="flex justify-center h-16">
       <div
         className="m-6 cursor-pointer hover:text-gray"
         onClick={() => router.push("/")}
@@ -33,4 +34,5 @@ const Navbar = () => {
     </div>
   );
 };
+
 export default Navbar;
